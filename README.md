@@ -23,4 +23,6 @@
 
 ### 4. Processed urls
 
-### 6. Tested the API in Postman
+### 6. Tested the API in Postman  
+
+![test](./tested_in_postman.png)
