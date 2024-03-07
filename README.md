@@ -23,6 +23,20 @@
 
 ### 4. Processed urls
 
+## How it looks like:  
+### List product  
+![test](./media/all.png)  
+
+## Get product by name  
+![test](./media/detail_by_name.png)  
+
+## Delete product  
+![test](./media/delete.png)  
+
+## Create product  
+![test](./media/create.png)  
+
+    
 ### 6. Tested the API in Postman  
 
-![test](./tested_in_postman.png)
+![test](./media/tested_in_postman.png)
