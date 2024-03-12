@@ -16,7 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include #new
 
+from product.views import redirect_home
+
 urlpatterns = [
+    path('', redirect_home),
     path('admin/', admin.site.urls),
     path('customer/', include('customer.urls')), #new
     path('product/', include('product.urls', namespace="product")),
